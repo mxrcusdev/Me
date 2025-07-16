@@ -1,4 +1,4 @@
-## Enthusiast in programming, malware and hacking.
+## Enthusiast in programming
 
 <h3>Things I code with</h3>
 <p>
